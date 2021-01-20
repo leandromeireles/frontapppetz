@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/365b94ee-4d18-430e-a2fb-b9b67edcf0c2/resourceGroups/dbapp/providers/Microsoft.Web/sites/petzapp",
+    "appService.deploySubpath": "dist\\petzappfront"
+}
